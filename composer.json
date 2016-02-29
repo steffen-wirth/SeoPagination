@@ -1,0 +1,16 @@
+{
+    "name":"steffen-wirth/SeoPagination",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/steffen-wirth/SeoPagination",
+    "description":"Integrate prev/next for paginated category content",
+    "authors":[
+        {
+            "name":"drewhunter",
+            "email":""
+        }
+    ],
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}
